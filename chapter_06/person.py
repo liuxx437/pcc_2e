@@ -1,0 +1,2 @@
+person = {'first_name': 'Jack', 'last_name': 'London', 'age':'40', 'city':'Paris' }
+print(person['first_name'] + ' ' + person['last_name'] + ' is ' + person['age'] + ' years old and lives in ' + person['city'] +'.')
